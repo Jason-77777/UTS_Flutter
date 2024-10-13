@@ -36,7 +36,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text("Welcome"),
         centerTitle: true,
-        backgroundColor: const Color.fromARGB(255, 156, 187, 212),
+        backgroundColor: const Color.fromARGB(256, 156, 187, 212),
       ),
       body: Container(
         color: const Color.fromARGB(255, 0, 12, 121),
